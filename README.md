@@ -4,4 +4,3 @@ A Crazy Cat Gang é uma ONG que resgata, castra e acha um novo lar para gatinhos
 
 Esse projeto foi implementado por: Alana Queiroz, Brenda Barbosa, Eros Quevedo e Leticia Vieira.
 
-<img src="Captura de Tela 2024-09-25 às 17.29.31.png">
